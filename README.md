@@ -25,14 +25,14 @@ Contributing
 Contributions are welcome! If you find any bugs or want to improve the program, please submit a pull request.
 
 CODE:-
+
    import java.util.*;
 class Main {
     public static void main(String[] args) {
         Scanner marks = new Scanner(System.in);
           System.out.println("marks out of :");
           int num = marks.nextInt();
-        
-             System.out.println("number of subjects :");
+        System.out.println("number of subjects :");
                int subject = marks.nextInt();
                System.out.println("totalmarks");
            int totalmarks = num*subject;
