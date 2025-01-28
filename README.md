@@ -25,8 +25,7 @@ Contributing
 Contributions are welcome! If you find any bugs or want to improve the program, please submit a pull request.
 
 CODE:-
-
-   import java.util.*;
+import java.util.*;
 class Main {
     public static void main(String[] args) {
         Scanner marks = new Scanner(System.in);
